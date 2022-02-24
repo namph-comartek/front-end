@@ -1,9 +1,10 @@
 main {
-    width: 1470px;
+    width: 1170px;
     height: auto;
     margin-left: 140px;
     padding-top: 30px;
     display: flex;
+    margin: 0 auto;
 }
 
 .main-content {
@@ -43,6 +44,7 @@ main {
     line-height: 20px;
     letter-spacing: 0.5px;
     margin-bottom: 10px;
+    font-family: 'Helvetica-medium';
 }
 
 .news .child .title:hover {
@@ -54,6 +56,7 @@ main {
     line-height: 24px;
     color: #666666;
     letter-spacing: -0.1px;
+    font-family: 'Helvetica-light';
 }
 
 .news .child .head-topic {

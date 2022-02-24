@@ -1,5 +1,5 @@
 aside {
-    width: auto;
+    width: 170px;
 }
 
 aside .sidebar .header {
@@ -25,6 +25,7 @@ aside .sidebar .header .style {
     color: #000000;
     opacity: 1;
     font-style: 20px;
+    font-family: 'Helvetica-medium';
 }
 
 .imgtl {
@@ -38,6 +39,7 @@ aside .sidebar .header .style {
     width: 370px;
     height: 37px;
     font-size: 15px;
+    font-family: 'Helvetica-medium';
 }
 
 #ptl {
@@ -46,6 +48,7 @@ aside .sidebar .header .style {
     color: #3C3C3C;
     opacity: 1;
     font-size: 14px;
+    font-family: 'Helvetica-light';
 }
 
 .smlig {
@@ -61,6 +64,7 @@ aside .sidebar .header .style {
     line-height: 22px;
     margin-left: 10px;
     display: block;
+    font-family: 'Helvetica-regular';
 }
 
 .mainx {
@@ -74,6 +78,7 @@ aside .sidebar .header .style {
     display: block;
     width: 270px;
     height: 17px;
+    font-family: 'Helvetica-light';
 }
 
 .ad {

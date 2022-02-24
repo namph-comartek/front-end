@@ -3,11 +3,15 @@ footer {
     height: 280px;
 }
 
-#footer-content {
+.footerset {
     width: 100%;
-    height: 230px;
-    padding: 0 139px;
     background: #1F2333;
+}
+
+#footer-content {
+    width: 1170px;
+    height: 230px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     font-size: 13px;
@@ -18,6 +22,7 @@ footer {
 #about-us {
     width: 370px;
     color: #E1E1E1;
+    font-family: 'Helvetica-light';
 }
 
 #about-us img {
@@ -49,6 +54,7 @@ footer {
     font-weight: 600;
     color: #fff;
     letter-spacing: 1px;
+    font-family: 'Helvetica-bold';
 }
 
 #footer-nav .list .title::before {
@@ -62,13 +68,14 @@ footer {
     top: 14px;
 }
 
-#footer-nav .list .item a{
+#footer-nav .list .item a {
     color: #AAABAF;
     font-weight: 300;
+    font-family: 'Helvetica-light';
 }
 
 #published-by {
-    width: 1449px;
+    width: 100%;
     height: 50px;
     background: #0090FF;
     font-size: 12px;
@@ -79,5 +86,5 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Helvetica-light';
 }
-
